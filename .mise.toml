@@ -1,0 +1,3 @@
+[tools]
+python = "3.13.5"
+"pipx:platformio" = "latest"
